@@ -1,0 +1,109 @@
+*{margin: 0;padding: 0;}
+li,p{cursor: pointer;}
+.Above{width: 100%;height: 1100px;background: url(img/bannner背景.jpg))}
+.Above .xie,
+.Above .er{position: absolute;margin-left: 50%;}
+.Above .xie{width: 100%;margin-left: 0;}
+.Above .er{width: 902px;height: 818px;left: -555px;margin-top: 140px;}
+.Above .left{position: absolute;width: 524px;height: 57px;margin-top: 240px;margin-left: 7%;}
+.Above .right{position: absolute;right: 7%;margin-top: 580px;width: 400px;}
+.AboveText .p{position: absolute;color: #fff;font-weight: Tahoma;left: 7%;top: 50px;}
+.AboveText .rig{position: absolute;top: 50px;color: #fff;left: 90%;}
+.AboveText ul{position: absolute;top: 0;}
+.AboveText .ul .li{position: relative;color: #fff;list-style-type: none;float: left;margin-right: 110px;top: 50px;left: 90%;}
+.AboveText .Up{position: absolute;top: 310px;font-size: 205px;color: #fff;margin-left: 28%;/*font-weight: 700;*/}
+.AboveText .text{position: absolute;top: 520px;color: #fff;font-size: 30px;left: 7%;}
+.AboveText .text1{position: absolute;top: 600px;width: 350px;color: #fff;font-size: 18px;left: 7%;}
+.AboveText .imgext{position: absolute;top: 700px;left: 7%;width: 350px;}
+.imgext ul li{color: #fff;list-style-type: none;}
+.imgext ul li img{position: relative;top: 5px;width: 17px;height: 17px;margin-right: 5px;}
+.AboveText .deta{position: absolute; color: #fff; top: 860px; height: 38px; left: 7%; overflow: hidden; }
+.AboveText .deta img{height: 76px; width: 78px; margin-right: 15px; position: relative; top: -38px; }
+.AboveText .deta span{position: relative; top: -52px; font-size: 16px; cursor: pointer; }
+.AboveText .deta img:hover{top: 0; cursor: pointer; }
+.Medil{height: 1900px; position: relative; background-color: rgb(7,8,12);margin-top: -25px; }
+.Medil .MedilImg{position: absolute; top: -200px; float: right; right: 4%; z-index: 999; }
+.Medil .rig{position: absolute; top: 0; right: 0; }
+.Medil .jianbian{position: absolute; top: 200px; right: 864px; background: linear-gradient(to bottom left, rgb(186,0,74), rgb(27,0,81)); width: 300px; height: 550px; }
+.Medil .jianbian .rig{position: relative; width: 35px; height: 35px; overflow: hidden; left: 290px; top: 30%; border:1px solid #fff; border-radius: 50%; }
+.Medil .jianbian .rig img{position: relative; top: -35px; }
+.Medil .jianbian .rig img:hover{top: 0; border:none; }
+.Medil .AE{position: absolute; top: 245px; font-size: 58px; color: #fff; left: 12%; font-weight: bold; }
+.Medil .AE .p{position: relative; margin-bottom: 20px; /*background-image: linear-gradient(to right, rgb(185,0,73), rgb(27,0,81));*/ background: linear-gradient(to right, rgb(255,0,156), rgb(155,0,183)); -webkit-background-clip: text; color: transparent; }
+.Medil .butext{position: absolute; width: 470px; top: 470px; left: 470px; }
+.Medil .butext p{font-size: 14px; line-height: 30px; color: #fff; }
+.Medil .boy{position: relative; top: 730px; /*left: 270px;*/ margin-left: 280px; box-sizing: border-box; }
+.Medil .boy .boyimg{position: relative; margin-top: -4px; width: 1008px; height: 200px; background-color: rgb(15,0,109); }
+.Medil .boy .boyimg p, .Medil .boy .boyimg h4{font-size: 30px; color: #fff; margin-left: 180px; }
+.Medil .boy .boyimg h4{margin-bottom: 40px; top: 20px; position: relative; }
+.Medil .boy .boyimg p{font-weight: 400px; font-size: 25px; }
+.bea{position: relative; width: 420px; height: 370px; margin-top: 430px; background: linear-gradient(to bottom left, rgb(153,0,71), rgb(14,0,89)); }
+.Medil .bea p{position: relative; margin-left: 30%; top: 80px; color: #fff; font-weight: bold; }
+.Medil .bea p img{margin-right: 5px; }
+.Medil .bea ul li{color: #fff; font-size: 20px; font-weight: bold; top: 110px; position: relative; margin-left: 20%; list-style-type: none; height: 40px; line-height: 40px; }
+.Medil .bea ul li img{margin-right: 20px; }
+.Medil .bea .beajian{position: relative; width: 120px; height: 4px; background: linear-gradient(to right, rgb(153,0,71), rgb(14,0,89)); margin-left: 20%; margin-top: 140px; }
+.ll{position: relative; top: 5px; }
+
+.girl{position: relative; width: 100%; height: 1000px; background-color: #000; }
+.girl img{position: absolute; margin-left: 12%; }
+.girl .girtext{position: relative; margin-left: 66%; top: 70px; }
+.girl .girtext p{color: #fff; font-size: 35px; font-weight: bold; position: relative; float: left; }
+.girl .girtext .xian{display: inherit; width: 102px; height: 3px; background-color: #fff; position: relative; margin-top: 18px; margin-left: 20px; margin-right: 20px; }
+.girl .El{position: absolute; margin-left: 62%; top: 200px; }
+.girl .El p{color: #fff; font-size: 50px; font-weight: bold; position: relative; }
+.girl .El img{position: relative; margin-top: 30px; margin-left: 58%; }
+.girl .grtxt{position: absolute; margin-left: 58%; top: 400px; color: #fff; }
+.girl .grtxt p{color: #fff; font-size: 18px; font-weight: bold; height: 40px; line-height: 40px; }
+.girl .grtxt p span{font-size: 14px; font-weight: 400; }
+.girl .grtxt .spa{position: absolute; display: block; width: 8px; height: 8px; border-radius: 50%; background-color: #FFF; left: -20px; margin-top: 15px; border: 2px solid rgb(102,102,102); }
+.girl .grimg{position: absolute; width: 156px; height: 43px; left: 75%; top: 610px; background: linear-gradient(to right, rgb(30,3,117), rgb(251,0,84)); border-radius: 20px; }
+.girl .grimg p{position: relative; text-align: center; font-size: 20px; line-height: 43px; color: #fff; font-weight: bold; }
+.girl .grimg:hover{background: #fff; border:1px solid rgb(251,0,84);}
+.girl .grimg:hover p{background: linear-gradient(to right, rgb(251,0,84), rgb(30,3,117)); -webkit-background-clip: text; color: transparent; }
+
+.lun{/*position: absolute;*/ width: 100%; height: 1468px; background: #000; }
+.lun .lunimg{position: absolute; margin-left: 44%; z-index: 10; }
+.lun .lunimg .big{position: absolute; top: 222px; margin-left: 30%; }
+.lun .lunimg .big p{color: #fff; font-size: 35px; line-height: 50px; font-weight: bold; }
+.lun .lunimg .big1{position: absolute; top: 222px; margin-left: 30%; z-index: -1;}
+.lun .lunimg .big1 p{color: #fff; font-size: 35px; line-height: 50px; font-weight: bold; }
+.lun .lunimg .min{position: absolute; top: 520px; margin-left: 30%; }
+.lun .lunimg .min p{color: #fff; width: 350px; font-weight: 500; text-indent: 2em; }
+.lun .lunimg .min1{position: absolute; top: 520px; margin-left: 30%; z-index: -1;}
+.lun .lunimg .min1 p{color: #fff; width: 350px; font-weight: 500; text-indent: 2em; }
+.lun .out{position: absolute; margin-top: 200px; margin-left: 17.5%; }
+.lun .luner{position: absolute; z-index: 20; margin-top: 310px; }
+.lun .xiaog{position: absolute; margin-top: 240px; margin-left: 20.7%; }
+.lun .new{position: absolute; margin-top: 90px; margin-left: 73%; z-index: 30; }
+.lun .A{position: absolute; z-index: 30; margin-left: 81%; margin-top: 660px; }
+.lun .tuimg{position: absolute; right: 0; margin-top: 1180px; }
+
+
+.bot{position: relative; width: 100%; height: 620px; background-color: rgb(2,0,35); color: #fff; }
+.bot .le{position: relative; top: 170px; margin-left: 150px; }
+.bot .le p{position: relative; width: 100px; font-size: 18px; margin-bottom: 20px; background: linear-gradient(to right, rgb(219,0,75), rgb(5,0,48)); -webkit-background-clip: text; color: transparent; -webkit-text-fill-color: transparent; text-fill-color: transparent; }
+.bot .le h2{font-size: 30px; position: relative; margin-bottom: 30px; }
+.bot .le input{color: rgb(93,92,95); border:none; /*border-bottom: 2px solid #fcc;*/ width: 300px; height: 50px; line-height: 50px; background-color: rgb(2,0,35); padding: 5px; box-sizing: border-box; margin-bottom: 10px;}
+.bot .le hr{height: 3px; width: 470px; background: linear-gradient(to right, rgb(241,1,81), rgb(58,0,241)); border: none; }
+.bot .le img{position: relative; margin-left: 110px; }
+.bot .cen{position: relative; margin-left: 40%; }
+.bot .cen ul li{list-style-type: none; line-height: 50px; }
+.bot .cen .ul .li{font-size: 18px; color: #fff; float: left; margin-right: 160px; font-weight: bold; }
+.bot .cen .ul2 li{color: rgb(102,102,102); font-size: 14px; }
+.bot .ch{position: absolute; margin-left: 88%; margin-top: 50px; }
+.bot .ch p{position: relative; margin-top: 10px; margin-left: -5px; }
+.qq{position: absolute; right: 100px; margin-top: 300px; }
+/*.qq img{right: 50px; }*/
+.qq .img1,.qq .img2,.qq .img3{float: left;position: absolute;}
+.qq .img1{right: 220px; } 
+.qq .img2{right: 130px; }
+.qq .img3{right: 40px; }
+.qq img:hover{width: 40px; height: 40px; }
+
+#but{position: absolute; width: 8px; height: 8px; background-color: #fff; z-index: 999; margin-left: 530px; top: 850px; border-radius: 50%; background: linear-gradient(to right, rgb(173,11,143), rgb(255,72,154)); /*display: none;*/ }
+#but1{position: absolute; width: 8px; height: 8px; background-color: #fff; z-index: 999; margin-left: 560px; top: 850px; border-radius: 50%; }
+.no{z-index: -1; }
+.yes{position: absolute; top: 222px; margin-left: 21.4%; color: #fff; font-size: 35px; line-height: 50px; font-weight: bold; }
+.yes1{position: absolute; top: 520px; margin-left: 21.4%; color: #fff; width: 350px; font-weight: 500; text-indent: 2em; }
+.bigyes{position: absolute; top: 222px; margin-left: 21.4%; color: #fff; font-size: 35px; line-height: 50px; font-weight: bold; }
